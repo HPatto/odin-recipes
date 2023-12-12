@@ -20,12 +20,25 @@ p,
     color: black;
 }
 
-.ingredients {
+.ingredients,
+.meal-options {
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
 .method {
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.meal-options {
+    font-weight: 200;
+    font-size: 14;
+
+    color: black;
+}
+
+.home-background {
+    background-color: rgb(234, 160, 185);
+    text-align: center;
 }
 
 .hmc-background {
