@@ -9,11 +9,33 @@ p {
     font-weight: 600;
 }
 
-p {
+p,
+.ingredients,
+.method {
     font-weight: 200;
     font-size: 14;
 
     text-align: left;
 
     color: black;
+}
+
+.ingredients {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.method {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.hmc-background {
+    background-color: rgb(249, 226, 124);
+}
+
+.risotto-background {
+    background-color: rgb(245, 243, 240);
+}
+
+.water-background {
+    background-color: rgb(137, 223, 247);
 }
